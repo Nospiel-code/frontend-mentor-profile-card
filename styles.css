@@ -84,3 +84,8 @@ p{
     padding: .5rem 0 .5rem;
     font-size: 14px;
 }
+
+.attribution{
+    position: absolute;
+    bottom: 0px;
+}
